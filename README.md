@@ -1,0 +1,1 @@
+# vue2-ts-correct-compile-error
